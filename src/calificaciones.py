@@ -1,0 +1,3 @@
+from test_calificaciones import calcula_nota_cuestionario
+
+calcula_nota_cuestionario()
